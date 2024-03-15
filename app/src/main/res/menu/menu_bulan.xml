@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/januari"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Januari" />
+    <item
+        android:id="@+id/februari"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Februari" />
+    <item
+        android:id="@+id/maret"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Maret" />
+    <item
+        android:id="@+id/april"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="April" />
+    <item
+        android:id="@+id/mei"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Mei" />
+    <item
+        android:id="@+id/juni"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Juni" />
+    <item
+        android:id="@+id/juli"
+        android:title="Juli" />
+    <item
+        android:id="@+id/agustus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Agustus" />
+    <item
+        android:id="@+id/september"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="September" />
+    <item
+        android:id="@+id/oktober"
+        android:title="Oktober" />
+    <item
+        android:id="@+id/november"
+        android:title="November" />
+    <item
+        android:id="@+id/desember"
+        android:title="Desember" />
+</menu>
